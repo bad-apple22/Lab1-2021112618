@@ -1,0 +1,15 @@
+digraph G {
+"new" -> "worlds" [label="4"];
+"new" -> "civilizations" [label="4"];
+"new" -> "life" [label="4"];
+"worlds" -> "to" [label="4"];
+"explore" -> "strange" [label="4"];
+"and" -> "new" [label="4"];
+"to" -> "explore" [label="4"];
+"to" -> "seek" [label="4"];
+"civilizations" -> "to" [label="3"];
+"seek" -> "out" [label="4"];
+"strange" -> "new" [label="4"];
+"life" -> "and" [label="4"];
+"out" -> "new" [label="4"];
+}
